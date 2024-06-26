@@ -10,10 +10,25 @@ TaskMate is an intuitive and efficient to-do list app built with React Native, d
 - **Cross-Platform**: Built with React Native, TaskMate works perfectly on both iOS and Android devices.
 
 ## Screenshots
-![IMG-20240626-WA0006](https://github.com/SidGhatage/TaskMate/assets/85355032/25d9a2a8-a399-4231-9515-9982c350187f)
-![IMG-20240626-WA0005](https://github.com/SidGhatage/TaskMate/assets/85355032/ef19220e-2f05-4a3e-b3f5-0be2b3a54d1d)
-![IMG-20240626-WA0003](https://github.com/SidGhatage/TaskMate/assets/85355032/383c9c43-f9be-4758-a7cb-b2b511efe323)
-![WhatsApp Image 2024-06-26 at 12 59 46_49fc6da4](https://github.com/SidGhatage/TaskMate/assets/85355032/3fa3d314-56ab-442a-b476-a3dc2b71b5d9)
+
+<p align="center">
+  <table>
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/SidGhatage/TaskMate/assets/85355032/25d9a2a8-a399-4231-9515-9982c350187f" width="150" style="margin: auto;" />
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/SidGhatage/TaskMate/assets/85355032/ef19220e-2f05-4a3e-b3f5-0be2b3a54d1d" width="150" style="margin: auto;" />
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/SidGhatage/TaskMate/assets/85355032/383c9c43-f9be-4758-a7cb-b2b511efe323" width="150" style="margin: auto;" />
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/SidGhatage/TaskMate/assets/85355032/3fa3d314-56ab-442a-b476-a3dc2b71b5d9" width="150" style="margin: auto;" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Installation
 
